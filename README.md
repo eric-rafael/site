@@ -1,2 +1,2 @@
 # site
-https://vercel.com/eric-rafael/site/pqres3nh7
+https://site-pqres3nh7.vercel.app/
