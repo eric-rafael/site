@@ -18,3 +18,5 @@ export default Home
   <MenuItem onClick={handleClose}>My account</MenuItem>
   <MenuItem onClick={handleClose}>Logout</MenuItem>
 </Menu>
+
+export default Menu
