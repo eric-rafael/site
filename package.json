@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/eric-rafael/site#readme",
   "dependencies": {
+    "fsevents": "^2.3.1",
     "next": "^10.0.6",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "x64": "^1.0.0"
   }
 }
